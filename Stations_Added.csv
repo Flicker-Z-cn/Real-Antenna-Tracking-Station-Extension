@@ -1,0 +1,35 @@
+Name,Latitude,Longitude,Altitude,Band,Note
+Jiamusi - Jiamusi,"46.4936 N	","130.7700 E	",350,VHF/UHF/S/X,66 m S/X station paper-derived values (TL9 UPGRADE TL10)
+Kashi - Kashi,38.4430 N,76.7279 E,1300,VHF/UHF/S/X/Ka,35 m S/X/Ka station paper-derived values (TL9)
+Argentina - Neuquen,"38.1914 S	",70.1495 W,800,VHF/UHF/S/X/Ka,35 m S/X/Ka station built 2017 (TL10)
+New Norcia,31.0482 S,116.1915 E,200,VHF/UHF/S/X/Ka,ESA 35 m S/X/Ka station paper-derived values (TL9)
+"Weinan	","34.3583 N	","109.6015 E	","500	","VHF/UHF	",Town-level approx. No public data; default antenna set
+"Huashan	","34.2520 N	","109.0179 E	","400	","VHF/UHF	",Center HQ coords (callsign station); default antenna set
+"Shuangcheng	","40.7289 N	","99.9847 E	","1200	","VHF/UHF	",Station-level (railway coords); default antenna set
+"Changcheng	","43.7910 N	","125.4400 E	","250	","VHF/UHF	",ITRF station-level; default antenna set
+"Qingdao	","36.2120 N	","120.2670 E	","8	","VHF/UHF/S	",Subdistrict-level approx.; S 18 m assumed data
+"Huanghe	","78.9232 N	","11.9345 E	","15	","VHF/UHF	",Arctic Yellow River Station official coords; default antenna set
+"Xiamen	","24.6199 N	","117.9986 E	","25	","VHF/UHF/S	",Town-level approx.; S 10 m assumed data
+"Sanya	","18.2000 N	","109.5000 E	","8	","VHF/UHF/S	",City-level approx.; S 15 m (paper aperture) assumed data
+"Xisha	","16.4531 N	","111.7114 E	","3	","VHF/UHF	",Island-level approx. (Chenhang Dao); default antenna set
+"Miyun	","40.5580 N	","116.9760 E	","155	","VHF/UHF/S/X	",RAA 2009 measured; 50 m S/X (G 58.8/69.4 dBi)
+"Wuqing	","39.3823 N	","117.0377 E	","8	","VHF/UHF/X	",District-level approx.; 70 m X (GRAS-4 2020)
+"Kunming	","25.0258 N	","102.7950 E	","1985	","VHF/UHF/S/X	",RAA 2010 measured; 40 m S/X (G 57.5/67.6 dBi est.)
+"Karachi	","24.9500 N	","67.1400 E	","20	","VHF/UHF	",SUPARCO campus approx.; default antenna set
+"Namibia	","22.5747 S	","14.5478 E	","15	","VHF/UHF/S/X	",Station-level; 18 m S/X (paper)
+"Malindi	","2.9900 S	","40.1900 E	","15	","VHF/UHF/S/X	",ASI official coords; 10 m S / 6 m X
+"Alcantara	","2.3717 S	","44.3908 W	","45	","VHF/UHF	",AIP precise; default antenna set
+"Kerguelen	","49.3517 S	","70.2556 E	","34	","VHF/UHF	",DORIS official; default antenna set
+"Aussaguel	","43.4289 N	","1.4978 E	","197	","VHF/UHF	",Wiki coords; default antenna set
+"Greenbelt	","38.9984 N	","76.8423 W	","54	","VHF/UHF	",NASA 1974 survey; NOCC default antenna set
+"Rosman	","35.2000 N	","82.8721 W	","892	","VHF/UHF/S	",NASA 1974 survey; 26 m S (est. gain)
+"East Grand Forks	","48.0226 N	","97.0107 W	","253	","VHF/UHF	",NASA 1974 survey; default antenna set
+"Fort Myers	","26.5477 N	",81.8656 W,5,VHF/UHF,NASA 1974 survey; default antenna set
+"Blossom Point	","38.4196 N	",77.0866 W,6,VHF/UHF,NASA 1974 survey; Minitrack default antenna set
+"Winkfield	",51.4470 N,0.6961 W,72,VHF/UHF,NASA 1974 survey; default antenna set
+"Shoe Cove	",47.7416 N,52.7213 W,68,VHF/UHF,NASA 1974 survey alt est; default antenna set
+"Orroral Valley	",35.6313 S,148.9530 E,931,VHF/UHF/S,NASA 1974 survey; 26 m S (est. gain); 25.8 km to DSS 43
+Lima,11.7764 S,77.1495 W,50,VHF/UHF,NASA 1974 survey (Ancon); default antenna set
+"Antofagasta	",23.6500 S,70.4000 W,50,VHF/UHF,Regional approx.; default antenna set
+"Cooby Creek	",27.3974 S,151.9381 E,550,VHF/UHF/S,NASA 1974 survey; 12 m S (est. gain)
+"Brown Field	",32.5722 N,116.9803 W,157,VHF/UHF,Airfield-level approx.; default antenna set
